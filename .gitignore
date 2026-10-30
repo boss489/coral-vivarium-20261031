@@ -1,0 +1,5 @@
+.godot/
+*.log
+*.import
+tests/screenshots/
+.DS_Store
